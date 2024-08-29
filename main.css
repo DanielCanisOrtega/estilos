@@ -144,3 +144,9 @@ th {
 #medio2{
   width: 500px;
 }
+
+#dividirColumnas{
+  margin: 20px 20px 20px 20px;
+  width: 400px;
+  column-count: 3;
+}
